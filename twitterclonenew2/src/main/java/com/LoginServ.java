@@ -63,6 +63,9 @@ public class LoginServ extends HttpServlet {
 			RequestDispatcher rd = request.getRequestDispatcher("tweets.jsp");
 			rd.forward(request, response);
 		}
+		if(option.equals("edit")) {
+			
+		}
 		
 		
 		

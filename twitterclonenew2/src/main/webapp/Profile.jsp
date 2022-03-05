@@ -34,8 +34,7 @@
 					<td>${per.user_id }</td>
 					<td>${per.fullName}</td>
 					<td>${per.email}</td>
-					
-					<td></td>
+					<td> <a href="./Edit.jsp" >edit</a></td>
 				</tr>
 				
 
